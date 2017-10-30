@@ -7,8 +7,18 @@ Run sm4shexplorer via shortcut in root
 	Open the 'data' subfolder in s4x, some things should be highlighted in green already, showing that there are changed files inside. 
 	This means s4x has found everything successfully and we're ready to MODD
 	
+
 /************	
-SKINS
+THE TOOLS
+************/
+Smash4Explorer: The daddy. This maintains a 'workspace' of all the changes you've made to game files (a category including EVERYTHING that is not a music track), and can build that workspace into a modpack. NEVER change the workspace manually.
+Smash4Music: a plugin for S4x which does the same thing but for music. Used to build a compiled music mod which S4x then compiles again into the grand modpack.
+Meteor: A tool for managing custom skins. Meteor handles a lot of tricky bits about this process, in particular adding new costume slots to characters without horrible bugs. Meteor works by making a copy of the 'skins' part of the s4x workspace, wrangling it correctly via a nicer UI, then copying that wrangled workspace back to S4x, which then builds it as normal.
+
+
+
+/************	
+ADDING SKINS (METEOR)
 ************/
 Now crack open Meteor, go to options and make sure it has the correct location for s4x's workspace. 
 	With that set, you should be able to pick a character and see some custom skins in the list (eg Robo Mario). SUCCESS
@@ -22,16 +32,19 @@ Now, we want to put these compiled skins into s4x. In Meteor, go workspace>MSL w
 Open s4x, which will have all your lovely files in it. Project>Build the Mod, then wait for it to say done. 
 If you have an SD card in, it will probably try to put the results on the SD card by itself, otherwise find the output in the s4x_export dir, marked with the current date. 
 	To manually add files to SD, the 'patch' and 'sound' dirs shoudl be inside a directory called 0005000010145000, which should be in the root of the SD card
-	
-Run this on the wii U using loadiine.ovh as usual! If the things you changed work, push the changes, bosh.
 
+/************	
+ADDING SKINS (NON-METEOR)
+************/
+Even if a skin isn't listed as meteor compatible, you should still use meteor to load it in.
+TODO: expand this bit as it is bad
+
+Pick a character, add a new skin slot for that character, then drag and drop the files into the files tab. Just look at another modded skin to get the gist. There's some faff with which files are mandatory and which aren't, and gotchas like 'yoshi is bizarre and works like nothing else does' but broadly thats it.
 
 
 /************	
 MUSIC:
 ************/
-
-
 If you have a nus3bank - add it to todds_modds\workspace\content\sound\bgm  ,entitled snd_bgm_CATCHYNAME.nus3bank
 
 (nus3banks can be found on the web of a lot of video game music and a few other things)
@@ -73,6 +86,18 @@ Then follow previous steps to add this song to the game and then to a stage or s
 
 
 oh yeah i guess python 2.7 is a dependency huh
+
+
+/************	
+STAGES, VOICES, RULES
+************/
+Every other mod is handled by finding the right bits in s4x and overwriting them with your changed versions. 
+Some gotchas:
+Files may be listed in /data, or /data-eu. Or both. Which one you have to change is subject to sakurai's whim, and anything from DLC may appear in all sorts of places. 
+Rules may require further plugins to edit as they turn up in a variety of formats.
+Voice changing is dependent on the number of different voices a character supports, which may be different from what you get in game. I believe this can be controlled and arbitrary voices can be attached to chosen skins, but this is non-triv and requires research.
+Stages can have their omega versions changed without affecting the original, but 8player support is an unsolved problem.
+All the sounds for a character will be munged into nus3bank files - eg cloud's limit charge sound is in a single file with all his attack sounds. To change individual parts of this you have to extract and inject your changes with extra tools that are not yet in the toolkit, but will be if anyone bleats
 
 /******************
 RUNNING MODS

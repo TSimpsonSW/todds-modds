@@ -1,0 +1,1094 @@
+Body_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+CameraHit_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c40 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+CameraHit_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c14 1010302 0
+Texture1: 401b0c15 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+CameraHit_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+CameraHit_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c00 1010302 0
+Texture1: 401b0c01 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+CameraHit_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c41 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+Pikachu_LEye_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_LEye_Halfblink1_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_LEye_Halfblink2_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_LEye_Blink_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_LEye_Down_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_LEye_Ouchb_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_LEye_Anger_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_LEye_Guru_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_REye_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_REye_Halfblink1_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_REye_Halfblink2_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_REye_Blink_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_REye_Ouch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_REye_Down_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_REye_Ouchb_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_REye_Anger_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c2e 1030302 0
+Texture1: 401b0c2f 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash a89acadb 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c36 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8f69de3a 0 0 0 
+
+Pikachu_REye_Guru_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Pikachu_Mouth_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Talk_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Talk_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Ouch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Ouch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Down_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Down_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Anger_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Anger_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_He_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_He_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Ho_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Ho_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Teeth_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Teeth_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a211067 0 0 405
+Texture0: 401b0c12 3030302 0
+Texture1: 401b0c13 3030302 0
+Texture2: 401b0c16 3030302 0
+Texture3: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 76.5 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 255.0 
+NU_specularColor 0.0 0.0 0.0 255.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6482209 0 0 0 
+
+Pikachu_Mouth_Teeth_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_HeavyOuch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_HeavyOuch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Wa_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Wa_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_Downb_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_Downb_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_VoiceA_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_VoiceA_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+Pikachu_Mouth_result_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Pikachu_Mouth_result_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c14 3030302 0
+Texture1: 401b0c15 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash cfcf6f64 0 0 0 
+
+hat_VIS_O_OBJ_NSC
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 1 10000 405
+Texture0: 401b0c2d 3030302 0
+Texture1: 401b0c29 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 108.63 108.63 108.63 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 133.875 91.30276 91.30276 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 729.3 0.0 0.0 
+NU_fresnelParams 510.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 8dc147d5 0 0 0 
+
+Pikachu_LEye_Ouch_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 1 10000 405
+Texture0: 401b0c30 1030302 0
+Texture1: 401b0c31 1030302 0
+Texture2: 10080000 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 6f0219b7 0 0 0 
+TexProp#1-------------------------------------------------------------------
+Flags: 92101001 1 10000 405
+Texture0: 401b0c37 1030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 779596e7 0 0 0 
+
+Object00
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c40 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+Object001
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c41 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+Ears
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c41 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+
+Pikachu_Mouth_VIS_O_OBJ
+TexProp#0-------------------------------------------------------------------
+Flags: 9a811063 0 0 405
+Texture0: 401b0c00 3030302 0
+Texture1: 401b0c01 3030302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 153.0 153.0 153.0 255.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 0.0 0.0 0.0 0.0 
+NU_aoMinGain 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 0.0 255.0 0.0 
+NU_fresnelParams 255.0 0.0 0.0 0.0 
+NU_softLightingParams 127.5 178.5 229.5 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash f6fde2be 0 0 0 
+
+Raichu
+TexProp#0-------------------------------------------------------------------
+Flags: 9a011063 0 10204 800405
+Texture0: 401b0c40 1010302 0
+Texture1: 401b0c2f 1010302 0
+Texture2: 10080000 3030302 0
+NU_colorSamplerUV 1.0 1.0 0.0 0.0 
+NU_fresnelColor 255.0 255.0 255.0 765.0 
+NU_blinkColor 0.0 0.0 0.0 0.0 
+NU_specularColor 163.46155 163.46155 163.46155 255.0 
+NU_reflectionColor 179.80771 179.80771 179.80771 255.0 
+NU_aoMinGain 0.0 0.0 0.0 51.0 
+NU_lightMapColorOffset 0.0 0.0 0.0 0.0 
+NU_specularParams 0.0 30000.0 255.0 0.0 
+NU_fresnelParams 1402.5 0.0 0.0 0.0 
+NU_alphaBlendParams 0.0 0.0 0.0 0.0 
+NU_materialHash 7e2f2686 0 0 0 
+

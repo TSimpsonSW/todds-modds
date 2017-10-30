@@ -74,6 +74,20 @@ Then follow previous steps to add this song to the game and then to a stage or s
 
 oh yeah i guess python 2.7 is a dependency huh
 
+/******************
+RUNNING MODS
+******************/
+
+probably everyone knows this by now but anyway:
+Put mod files on SD card
+	The root of the SD should have a folder called 0005000010145000, which contains the 'patch' and 'sound' dirs from the built mod
+Start wii U
+Go to loadiine.ovh in the browser
+Pick SDCaffeine + Kernel from the dropdown
+Let it do a thing, then reopen the browser
+Go to loadiine.ovh again if it doesn't do so automatically, and press A when SDCaffeine prompts you
+Load smash!
+
 
 
 

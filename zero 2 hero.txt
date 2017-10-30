@@ -1,0 +1,83 @@
+Checkout tut repo
+
+Run sm4shexplorer via shortcut in root
+	This will ask for the path to the dump of the smash 4 disc. Get this from SGS' lab here - QQQQQQQQQQ
+	In S4x, go Project>options then set the 4 folder locations (temp, export, workspace, extract) to be the folders in the root of the checkout
+
+	Open the 'data' subfolder in s4x, some things should be highlighted in green already, showing that there are changed files inside. 
+	This means s4x has found everything successfully and we're ready to MODD
+	
+/************	
+SKINS
+************/
+Now crack open Meteor, go to options and make sure it has the correct location for s4x's workspace. 
+	With that set, you should be able to pick a character and see some custom skins in the list (eg Robo Mario). SUCCESS
+	
+Why not add another? On Gamabanana, find the skin you want, and for simplicity's sake pick one with a Meteor install link. 
+	NB - meteor links may or may not actually open meteor. If they do, hurrah. if not, go to the link yourself and download the thing. 
+	Unzip whatever you get until you find the folders called meteor_xx_yourAmazingSkin, then drag this folder onto the drop zone in meteor.
+You should see a new item appear in the list of skins!
+
+Now, we want to put these compiled skins into s4x. In Meteor, go workspace>MSL workspace>export workspace to S4E. It will warn you about backups, which hopefully aren't needed once we have git but idk
+Open s4x, which will have all your lovely files in it. Project>Build the Mod, then wait for it to say done. 
+If you have an SD card in, it will probably try to put the results on the SD card by itself, otherwise find the output in the s4x_export dir, marked with the current date. 
+	To manually add files to SD, the 'patch' and 'sound' dirs shoudl be inside a directory called 0005000010145000, which should be in the root of the SD card
+	
+Run this on the wii U using loadiine.ovh as usual! If the things you changed work, push the changes, bosh.
+
+
+
+/************	
+MUSIC:
+************/
+
+
+If you have a nus3bank - add it to todds_modds\workspace\content\sound\bgm  ,entitled snd_bgm_CATCHYNAME.nus3bank
+
+(nus3banks can be found on the web of a lot of video game music and a few other things)
+
+Open s4x, go plugins>music. 
+(file>load configuration? shouldn't do anything but worth it on first run)
+In the BGM Management tab, hit add at the bottom of the list. 
+Set a title for your new track, and replace the 'Main BGM' with CATCHYNAME. If it doesn't autocomplete, sm4music didn't find it!
+	For ease of testing, recommend you hit Reorder next to Sound Test Order, then send it to the bottom of the list with the other customs.
+
+In the My Music tab, pick a stage. Grab your song in the middle tab from the dropdown and hit add, then say yes when asked to add it to My Music.
+File - save configuration, file>compile.
+
+Build the mod in S4x as before! Your sd card should end up with some things in the sound dir this time.
+
+
+/************	
+WHAT ABOUT MY OWN MUSIC THO:
+************/
+To make your own music though:
+
+NB you nerds may well want to streamline this bit
+
+Get a wav of the song you want
+Open brawlbox, file>new>audio>brstm
+Edit the loop points so that the track plays an intro then subsequently has a neat loop
+Save your lovely new brstm!
+
+Drag and drop this brstm onto sm4shidspbuild.bat in the Music Tools/MakeIDSP dir. No idea what this bit of the process is about
+
+In the Inject Into Nus3bank folder, run:
+	
+	python nus3inject.py <name of NUS3BANK> <name of IDSP> 0x0
+	
+(There's a sample nus3bank in Music Tools which you can use here. nus3bank is a container which doesn't matter much to us)
+This will output you a new nus3bank file which you can put into todds_modds\workspace\content\sound\bgm , entitled snd_bgm_CATCHYNAME.nus3bank as before!
+Then follow previous steps to add this song to the game and then to a stage or several.
+
+
+
+oh yeah i guess python 2.7 is a dependency huh
+
+
+
+
+
+	
+	
+	

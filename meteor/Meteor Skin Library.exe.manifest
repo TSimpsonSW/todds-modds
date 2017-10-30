@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Meteor Skin Library.exe" version="0.6.4.3" publicKeyToken="f710d6751d5175e4" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="iconic.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Meteor Skin Library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Meteor Skin Library.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Meteor Skin Library.exe" size="1959864">
+      <assemblyIdentity name="Meteor Skin Library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l1dh4U1WAGM2TE6TG4eggxBe+e6dUSVFiNo6r6yncWM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpCompress.dll" size="418304">
+      <assemblyIdentity name="SharpCompress" version="0.10.3.0" publicKeyToken="BEAF6F427E128133" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SgkzwT9/NtLZWYbv3JL6ATp4U0th5TVCNzm/MwV6zD4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="7za.exe" size="652800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4OLH0PdA/ipOhljOVN+26zxHw3/pCkSoOeVgxoXx8fo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="iconic.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c2Jrgt/TlFHwLYJX4+ZmA8vUzVvWjzFF3sAt70TsIwc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Meteor Skin Library.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GUHS+OFx1101tsQAmSxc2HiZ6DFfxLEUn0Es0Znho/o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_config\Default_Config.xml" size="349" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>paD3o1e2wfabdCpc2L44xyuReKNGR6dkDE7kFHRkt3g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_config\Default_Library.xml" size="36610" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yi1UbyMlwxK4Bgt+SdlsLM1HrZJdYiMPCjxT/mGVAL4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_config\meta\Default_Meta.xml" size="192" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>r3q3HOXyAiNow9wu4jx0w8jB9aEs4g11AwXsSWKscMA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\checked.png" size="295">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VuXy6L1WBIL1DMtVqd8xhCsnd0JPjRhkcG12I/Eb4Oo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\All Miis.png" size="19546">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jt7TVX4LsHePPSD6NihzsftT7WmsJaA2GKOy1xKw4ds=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Bayonetta.png" size="4833">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fk6pw6gsk2mV/hsUHLOYCOJcMkUnd+0xnvKcvZf5wU0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Bowser Jr.png" size="4359">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TZc/pSj7cbhszp7Z2LttEiL2ecW8kBO2buoZeFd8a5A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Bowser.png" size="5401">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UjIb1ubfD+nHLjLUF7wGJH483ardWiW+aIvZdIGynMw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Captain Falcon.png" size="4455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>u9uw82gVcb/OcW8EKCYt5fW2DkqlZFweAIzJgbgrovs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Charizard.png" size="4503">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TikntWF/9RlFnpYX5B5pbhPHjIlxrUW4Yr2Bf5BFYgo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Cloud.png" size="4949">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rTZhg9G8eWsos/sohmaMFRhfsvft+wlQn3jPlulbj2c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Corrin.png" size="5170">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y1GA05PbwS1PpKH21KbSPI2spR3UfR8CI2tBnT4sLoA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Dark Pit.png" size="5735">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R4iXXZ+u6TJWpkpuHsNwISCkYaPHJTjiGsvFdf3/Nb4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Diddy Kong.png" size="4490">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bjxwSb/2AoHokkeJ+v9P090ZGaf2LTUYm00TAS7UT/c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Donkey Kong.png" size="4568">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Da8km1SkJKJUoEKYJkQAuEkfCHvVkZxoj5ZmTas5EnA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Dr. Mario.png" size="5063">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iyOPaK9UuPG3I8XJwyMGcIInEY4LTqhpywd1nH3I/Q8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Duck Hunt.png" size="4534">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1odduVgDDquXohKwx0m4HceYPEAiZhqVH+rSPGzHiCQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Falco.png" size="4295">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IwlFWSGOgPhHeIe5LcuQeQOsFWXNR3NpGlRTEbUDt3A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Fighter Mii.png" size="20187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pK9c4igFYl4uGpKJzL9ZCMyZORGjnmAq+eJ7qFAibxA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Fox.png" size="4819">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9w5iwm/v2tp+RezXn8kkyWb9pzucqjZqgJ/60RHWBSM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Game and Watch.png" size="2348">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MI7UPgbx+GsdXuWCQsbcean4ziavK8eOXnGDRa3Zfho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Ganon.png" size="5500">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>orHhsKUp7js1CAXQEOy3yP4rXf+R9aBGfqROBbQF6qs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Greninja.png" size="5110">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>olfMDqq0Bh6S6zowMw/7pG5/3NFECtMar59ypSZr2AY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Gunner Mii.png" size="20288">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>I54xZfsp2jYluw4vRkfG4vlnB993bq3QGd5f8jCoglY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Ike.png" size="4708">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>E5YVYYQO8AKMCfQK3uR99A1TF+EzSJu7we9p4cSUCgo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Jigglypuff.png" size="4983">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YG3NoTO31qXqzBTrfF3qg28MIbz9QFBVsgSMdDG1NW4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\King Dedede.png" size="4942">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MszMTChCvAfSYEyYrRGsBMLPfcEkW1KAYxxswQLFQZc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Kirby.png" size="3924">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ar8XpucehIviIhT/G1npOQgaTj//zEMSETa60jzF+k8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Link.png" size="5395">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>B2xD2QbZB5LetJoN7zhMMiJAaxbHDZzYUdI3QdMql5I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Little Mac.png" size="4665">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dlcP4SDGdi8qAKvjaLQlF0W7mCm/9qQfP5HP4vnQzgA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Lucario.png" size="4651">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9ictgU2+E/UPLvqogsXh99OfEBpHfMGMIAiJEAUCJ5Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Lucas.png" size="4100">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xgHj6uPgatKYeiBBUCfMBFQFROLM0bRZelyZAFn5d0g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Lucina.png" size="4816">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>t9ATHwL7IwFRikUYgPClMpGDRFvdN0uDql6lDKC45GQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Luigi.png" size="4620">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YW7CIoYXwjASv3JWRx014RGv8XVxGRm0XIVVnSm6PSM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Mario.png" size="4499">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>W+r8+p3yu7w92OAElrwQ1anHIIrkL52Szp3Yx729yp8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Marth.png" size="4538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QkTrB8ijWfyKsz8RiA26HcG485EapuVzpndIThnNtug=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Megaman.png" size="4493">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6G40ovfA5f935Yoqpscrq0WAowBVD8uebDexIVuRxwk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Meta Knight.png" size="4525">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UQjNAuuMQ6ruXFRzdGnrP7xaQg0mnHQ6wvTYsYsOhAo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Mewtwo.png" size="4167">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ghaDgUsy495R/+Ue4shAu44Evkr1O6WFhNaYnGfdkTg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Ness.png" size="4501">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SC2lGVF3AYGSiNe98PKtBOjJbODCy1ApXpUOoe8dYFk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Olimar.png" size="5164">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ym3pQ4uLXm/tUjF+UR8di/EgUZjRFKU4JocfqbPM6tU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Pac-man.png" size="5040">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>udiPsUvA/AtfiBH+yUAeFdFC5ja/MgLL7dFutBLjCuA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Palutena.png" size="5986">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DLKY9G5QwQBLpxWdoqEMQrxGSGM7rEUeAJQsvDZ2H+k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Peach.png" size="5552">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Rtc/ehu56go0t0eLdpr+1g368w15mO/2iliXnXYBj3k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Pikachu.png" size="4474">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yKvslxeN3UAwB+2dWn8kJRTasMfU8i8RY6mUAJ/QQZk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Pit.png" size="4999">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tQCtVrBVfzCj3egiVNPE9L6R4379rNKfH/fgxi96PDo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\R.O.B.png" size="4277">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9/AWU9Gyoza3bxuAmiuyHE8JTtogW6jZhiTFsQbK1P0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Random.png" size="1650">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7hbOxt7GAVvFNpZpUPLuhUrlUkq1ojmX2c0wJ7QBGVs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Robin.png" size="5317">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dYgPzh28qZQWbTZ8jGY83Sl+VU6FZcCyr5cQlGAE4eQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Rosalina.png" size="5211">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BXIqj8bR4yqTPUql3+0rb2jKrFgtfZVnFx3ll8CkvDM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Roy.png" size="5016">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p4Zh8TC5PWSL88wSt7uPy9PzCiOBJswk83P38UPtOu4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Ryu.png" size="4657">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c0BEdet0Sl2UvvdG+j7UV4/cT1Dl4f6ZOHW7EGTwQLk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Samus.png" size="4439">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6vf/5bT3yO6ZZyZh6nSKlVNe5y3uv82iD+gYIn3v4Mo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Sheik.png" size="5075">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/zcJrYWkdrXLmofB1x4NopiJkR0186LqeD2YCZ6kBtU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Shulk.png" size="4716">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4OdSljXANtNRXvEZSIHpGIK3mvk7r+wBEVM7rV774LU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Sonic.png" size="4542">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7gH9MUpm+M2mfne2Wva2iP6qtL8qmYcw5vonUTTMVrc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Swordsman Mii.png" size="18249">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TlYx39gc0PMSyyrQmy+EvIcaAZhg8SJUeogvxCK+RUk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Toon Link.png" size="4870">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MpkaWTCmKQspmCvsL5toxWpJP90nwKOzzu7R04z/zj8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Villager.png" size="4322">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eq3xYF3FGsvr3HngQbGanYMwk0jCyu4iX/3GFAMufFQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Wario.png" size="5676">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rJG56b974MFUdz0m1iXltRus54QoZF2o35llVUSU6+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Wii Fit.png" size="4447">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3FpOJTk6HUgCKJfZBUEykC301mfpN8lJ7tWCn4BRNqs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Yoshi.png" size="4605">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ILuoBllHSTpXGcXsoacavznUCm93lYe5sjdTt0YnX/o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Zelda.png" size="5620">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4YsYF5H7gWrc21WcCVFnE41LyW1ENNbHI3uLWzA4UgQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\icons\Zero Suit Samus.png" size="5305">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cIUUV1zrFaJqu9tfBm73kje5dMFmA8r/RkylNNrj+n0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\missing.png" size="277">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dR4j0j0bPzlNUZtSQCeWS+y8Pwt8dM6Ox3sfcYkb3rc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\new.png" size="344">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sCdjUiN++6xMFtudyDbTvXtyFe2yYTW1UK2azDX0n/o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mmsl_img\unknown.png" size="222">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>59VG2h/IUfLIO9NOos8sfg4ieCn5BI/i2uapDTSN4Uc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="patchnotes.xml" size="471" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0A6IC/Uj498ZKAXbDa5b8CzUwgvSUsLFn33A1qTLt1M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SharpCompress.dll" size="418304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SgkzwT9/NtLZWYbv3JL6ATp4U0th5TVCNzm/MwV6zD4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="updatefiles.xml" size="79" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4xLT/HSon1mJMnqqG6X02OhKqhdjx5C7qccKpoF5MEA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <publisherIdentity name="CN=MOWJOHS\Mowjoh" issuerKeyHash="474236577f4cc38a784846282d75b14d25e6cdea" />
+  <Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+          <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <DigestValue>orfh85wfw+RGsrrWzNn/T3ftCEYYGvyJPIlXcZn+TUM=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>oOh2AqUn2E4f0oPHlXXWV5H6kvThmWMAWraKyP2HS5k8uTH0k3h8N2h9CM5/i4fQEMyag2nW7nbSLUglqtV/LFE00yclCXho8lhmWLkdI8iBnyEACcp+/E/x/ZB01G/GanmhH1yc8BuPXJmgS8vGNUziq0BAj2F4so5voD6Oms8=</SignatureValue>
+    <KeyInfo Id="StrongNameKeyInfo">
+      <KeyValue>
+        <RSAKeyValue>
+          <Modulus>oidQNHN6Q71xSlja8H/9Wd/kHdKQ1HVB/2WGoLTBgPgBc96JAC1UPiv996ZaD+xRE3fiHf2+rFMKQY2hQ8QtMCTuAaM0krOVcKo5keu01zRV0/0S/OYDunNQV6oaujuIhwbLukooCp4CnLLO36qM5RIfT7PgoDnqPOietuDQ44E=</Modulus>
+          <Exponent>AQAB</Exponent>
+        </RSAKeyValue>
+      </KeyValue>
+      <msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata">
+        <r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode">
+          <r:grant>
+            <as:ManifestInformation Hash="434dfe997157893c89fc1a184608ed774fffd9ccd6bab246e4c31f9cf3e1b7a2" Description="" Url="">
+              <as:assemblyIdentity name="Meteor Skin Library.exe" version="0.6.4.3" publicKeyToken="f710d6751d5175e4" language="neutral" processorArchitecture="msil" type="win32" />
+            </as:ManifestInformation>
+            <as:SignedBy />
+            <as:AuthenticodePublisher>
+              <as:X509SubjectName>CN=MOWJOHS\Mowjoh</as:X509SubjectName>
+            </as:AuthenticodePublisher>
+          </r:grant>
+          <r:issuer>
+            <Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+              <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" />
+                <Reference URI="">
+                  <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                    <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                  </Transforms>
+                  <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+                  <DigestValue>/OgO1We6MrCuNPgl3zl2TeLo1+V2IbZthgoGp2amVeg=</DigestValue>
+                </Reference>
+              </SignedInfo>
+              <SignatureValue>GbEYdmPRpo3XzjLxFxzq6SkiUhA6Ipgqpq4ZRgnmaeTQ8YTICjXolmVEZ2Jyu2l1uV/+ubsHHd8new0wJGwytX3TTu5TpIusD16DsQYOhdm2CrzUYkzLklAykNM0B8QXf1b9efF6YsDSPMknZcivGgXd+w7olkokdWFTcFhSnmY=</SignatureValue>
+              <KeyInfo>
+                <KeyValue>
+                  <RSAKeyValue>
+                    <Modulus>oidQNHN6Q71xSlja8H/9Wd/kHdKQ1HVB/2WGoLTBgPgBc96JAC1UPiv996ZaD+xRE3fiHf2+rFMKQY2hQ8QtMCTuAaM0krOVcKo5keu01zRV0/0S/OYDunNQV6oaujuIhwbLukooCp4CnLLO36qM5RIfT7PgoDnqPOietuDQ44E=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                  </RSAKeyValue>
+                </KeyValue>
+                <X509Data>
+                  <X509Certificate>MIIB0TCCATqgAwIBAgIQJ+Ja7u3LCKtHQaDl1FwaeTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwATQBPAFcASgBPAEgAUwBcAE0AbwB3AGoAbwBoMB4XDTE2MTExNTAxMjczM1oXDTE3MTExNTA3MjczM1owJzElMCMGA1UEAx4cAE0ATwBXAEoATwBIAFMAXABNAG8AdwBqAG8AaDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoidQNHN6Q71xSlja8H/9Wd/kHdKQ1HVB/2WGoLTBgPgBc96JAC1UPiv996ZaD+xRE3fiHf2+rFMKQY2hQ8QtMCTuAaM0krOVcKo5keu01zRV0/0S/OYDunNQV6oaujuIhwbLukooCp4CnLLO36qM5RIfT7PgoDnqPOietuDQ44ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCcU6iPr2P3zO4VB658yMmUvZ3ASq9UYnFb97QMrVUOFcxibtHxtEEd99cXA3p1zcjgLsCbY1fTfQhbo+5BaL/VBDmQqgsJFwBSkDc40rwD25HnxSMeykSjnz6MZvDOsDWtFSXdlP6kAT+B4rrJPbqwNrICGsurcuBf5CXEa51anQ==</X509Certificate>
+                </X509Data>
+              </KeyInfo>
+            </Signature>
+          </r:issuer>
+        </r:license>
+      </msrel:RelData>
+    </KeyInfo>
+  </Signature>
+</asmv1:assembly>

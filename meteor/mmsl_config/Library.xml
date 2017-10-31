@@ -214,6 +214,13 @@
     </skin>
     <skin slot="8" origin="Default" name="Pink">
     </skin>
+    <skin slot="9" name="wigglytuff" origin="Custom">
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">stock_90</csp>
+      <model workspace="imported">body/cXX</model>
+    </skin>
   </Character>
   <Character name="Diddy Kong" dlc="0" foldername="diddy" moved_dlc="0" ui_char_db_id="28" cspname="Diddy">
     <skin slot="1" origin="Default" name="Red">
@@ -561,6 +568,13 @@
       <csp workspace="imported">chr_13</csp>
       <csp workspace="imported">stock_90</csp>
     </skin>
+    <skin slot="10" name="chinese new year marth" origin="Custom">
+      <model workspace="imported">body/cXX</model>
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">stock_90</csp>
+    </skin>
   </Character>
   <Character name="Ike" dlc="0" foldername="ike" moved_dlc="0" ui_char_db_id="30" cspname="Ike">
     <skin slot="1" origin="Default" name="Default">
@@ -854,6 +868,13 @@
       <csp workspace="imported">chr_12</csp>
       <csp workspace="imported">chr_13</csp>
       <csp workspace="imported">stock_90</csp>
+      <model workspace="imported">body/cXX</model>
+    </skin>
+    <skin slot="10" name="mr saturn" origin="Custom">
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">stock_90</csp>
       <model workspace="imported">body/cXX</model>
     </skin>
   </Character>

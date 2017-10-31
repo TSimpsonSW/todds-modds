@@ -3,3 +3,6 @@ s4x_export/
 s4x_temp/
 meteor/mmsl_logs/
 *.lnk
+extract/
+temp/
+meteor/mmsl_config/Config.xml

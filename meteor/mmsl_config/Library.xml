@@ -145,6 +145,14 @@
     </skin>
     <skin slot="8" origin="Default" name="Black">
     </skin>
+    <skin slot="9" name="birdo" origin="Custom">
+      <model workspace="imported">body/cXX</model>
+      <model workspace="imported">tamago/cXX</model>
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">stock_90</csp>
+    </skin>
   </Character>
   <Character name="Rosalina" dlc="0" foldername="rosetta" moved_dlc="0" ui_char_db_id="37" cspname="Rosetta">
     <skin slot="1" origin="Default" name="Cyan">
@@ -1178,6 +1186,13 @@
     </skin>
     <skin slot="8" origin="Default" name="Red">
     </skin>
+    <skin slot="9" name="Knuckles The Echidna" origin="Custom">
+      <model workspace="imported">body/cXX</model>
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">stock_90</csp>
+    </skin>
   </Character>
   <Character name="Mewtwo" dlc="1" foldername="mewtwo" moved_dlc="0" ui_char_db_id="52" cspname="Mewtwo">
     <skin slot="1" origin="Default" name="Default">
@@ -1346,6 +1361,14 @@
     <skin slot="7" origin="Default" name="Pink">
     </skin>
     <skin slot="8" origin="Default" name="Blue">
+    </skin>
+    <skin slot="9" name="deadpool" origin="Custom">
+      <model workspace="imported">body/cXX</model>
+      <csp workspace="unknown">chr_00</csp>
+      <csp workspace="unknown">chr_11</csp>
+      <csp workspace="unknown">chr_13</csp>
+      <csp workspace="unknown">chrn_11</csp>
+      <csp workspace="unknown">stock_90</csp>
     </skin>
   </Character>
   <Character name="Random" dlc="0" foldername="" moved_dlc="0" ui_char_db_id="00" cspname="Omakase">
